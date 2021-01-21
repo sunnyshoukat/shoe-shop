@@ -1,0 +1,21 @@
+.carousel-item{
+    top: -1000px;
+}
+
+.slider-img{
+    margin: 0 auto;
+    width: 75%; 
+    height: 600px;
+    object-fit: cover;
+    object-position: 0% 65%;
+}
+
+.slide-container{
+
+    background: #f5f5f5;
+
+}
+
+.carousel a, ol>li{
+    display: none;
+}
